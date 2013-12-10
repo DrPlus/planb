@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-11-06 01:25">
+  <shop>
+    <name>OZON.ru</name>
+    <company>ООО "Интернет Решения"</company>
+    <url>http://www.ozon.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1116145">Детская посуда и аксессуары</category>
+      <category id="1116257" parentId="1116145">Аксессуары для кормления</category>
+      <category id="1116255" parentId="1116145">Детские тарелки, ложки, вилки</category>
+      <category id="1116253" parentId="1116145">Детские чашки,  пиалы, блюдца, молочники</category>
+      <category id="1116251" parentId="1116145">Комплекты детской посуды</category>
+    </categories>
+    <offers>
+      <offer id="4722113" available="true">
+        <url>http://www.ozon.ru/context/detail/id/4722113/?from=prt_xml_facet</url>
+        <price>264</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001316299.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001406977.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелочка с ручкой</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17302</vendorCode>
+        <description>Тарелочки "Мир детства" изготавливаются из прочного безопасного материала и проходят тщательный контроль качества. Облегчают родителям процесс кормления детей. Специальное покрытие на ручке тарелочки предотвращает ее выскальзывание из рук, а кольцо на дне помогает избежать скольжения по столу. Устойчивая тарелка способствует поддержанию чистоты. Уход: мыть горячей водой с мылом или специальным средством для мытья детской посуды "Мир детства", тщательно ополаскивать. Не кипятить! Вымыть перед первым использованием!</description>
+        <barcode>4605658173029</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="4722116" available="true">
+        <url>http://www.ozon.ru/context/detail/id/4722116/?from=prt_xml_facet</url>
+        <price>394</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001341881.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001341880.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелочка нескользящая с тремя секциями и с крышкой "Мир детства", от 4 месяцев</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17317</vendorCode>
+        <description>Тарелочки "Мир детства" изготавливаются из термостойкого небьющегося пластика. Дно со специальным покрытием предотвращает скольжение тарелочки по столу и придает ей дополнительную устойчивость. Тарелочка снабжена уникальной герметичной крышкой, которая сохраняет вкус и свежесть продуктов. Тарелочка имеет три отделения и снабжена удобными нескользящими ручками.</description>
+        <barcode>4893949173173</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="4722117" available="true">
+        <url>http://www.ozon.ru/context/detail/id/4722117/?from=prt_xml_facet</url>
+        <price>166</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001316297.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001342556.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Мир детства": вилочка и ложечка, от 12 месяцев</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17401</vendorCode>
+        <description>Набор для кормления "Мир детства", состоящий из вилки и ложки, изготовлен из термостойкого небьющегося пластика и коррозионностойкой стали. Зубчики на вилке закруглены для дополнительной безопасности. Набор развивает у малыша навыки самостоятельного кормления.</description>
+        <barcode>4605658174019</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+      </offer>
+      <offer id="4722118" available="false">
+        <url>http://www.ozon.ru/context/detail/id/4722118/?from=prt_xml_facet</url>
+        <price>143</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001316296.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001342531.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001342533.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Мир детства": вилочка и ложечка, от 4 месяцев в ассортименте.</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17402</vendorCode>
+        <description>Набор для кормления "Мир детства", состоящий из вилки и ложки, изготовлен из термостойкого пластика. Ложка и вилка имеют изогнутую форму, чтобы было удобно подносить пищу ко рту малыша. На ручки вилки и ложки нанесено специальное покрытие против выскальзывания из рук. Зубчики на вилке закруглены для безопасности.</description>
+        <barcode>4605658174026</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+      </offer>
+      <offer id="4722121" available="true">
+        <url>http://www.ozon.ru/context/detail/id/4722121/?from=prt_xml_facet</url>
+        <price>159</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001342058.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001342057.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложечка для кормления "Мир детства", силиконовая, от 4 месяцев в ассортименте.</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17408</vendorCode>
+        <description>Ложечка для кормления "Мир детства" изготовлена из прочного безопасного материала и прошла тщательный контроль качества. Силиконовая ложечка "Мир детства" развивает у детей навыки самостоятельного приема пищи. Мягкий безопасный ковш ложечки не травмирует десны ребенка, а ручка не выскальзывает из рук.</description>
+        <barcode>4605658174088</barcode>
+        <param name="Тип">Ложка</param>
+      </offer>
+      <offer id="4781521" available="true">
+        <url>http://www.ozon.ru/context/detail/id/4781521/?from=prt_xml_facet</url>
+        <price>211</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001361082.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001419030.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелочка на присоске</name>
+        <vendor>Курносики</vendor>
+        <vendorCode>17308</vendorCode>
+        <description>Благодаря присоске тарелочка не скользит по поверхности, не падает и не опрокидывается, что существенно облегчает родителям процесс кормления и дальнейшей уборки со стола. Подходит для горячей и холодной пищи.</description>
+        <barcode>4605658173081</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="5015876" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5015876/?from=prt_xml_facet</url>
+        <price>71</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001584282.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001584284.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Сеточки сменные "Мир детства", 3 шт</name>
+        <vendor>Мир детства</vendor>
+        <vendorCode>17504</vendorCode>
+        <description>Сменные сеточки "Мир детства" предназначены для безопасного кормления малыша и обучению его жеванию кусочков с раннего возраста. Идеально подходит для всех продуктов, соответствующих возрасту ребенка, включая вареные, протертые мясо и овощи, свежие фрукты, ягоды, кусочки варенных и свежих овощей и многое другое. Позволяет ребенку кушать свежие овощи, ягоды и фрукты без риска подавиться небольшим кусочком. Самостоятельно разжевывая их, ребенок получает истинное удовольствие и учится жевать.</description>
+        <barcode>4605658175047</barcode>
+        <param name="Материал">Полиэстер</param>
+      </offer>
+      <offer id="5155182" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5155182/?from=prt_xml_facet</url>
+        <price>90</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116253</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001712736.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001712735.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Кружка "Курносики. Крокодил", 200 мл</name>
+        <vendor>Курносики</vendor>
+        <vendorCode>17000</vendorCode>
+        <description>Кружка для малышей "Курносики. Крокодил" выполнена из прочного безопасного материала и оформлена изображением забавного крокодила. Кружка очень легкая и имеет удобную ручку, что позволит малышу держать ее самостоятельно.</description>
+        <barcode>4605658170004</barcode>
+        <param name="Тип">Кружка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="5173155" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5173155/?from=prt_xml_facet</url>
+        <price>199</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003560377.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка для кормления NUK "Easy Learning", от 6 месяцев, 2 шт в ассортименте</name>
+        <vendor>NUK</vendor>
+        <vendorCode>10.255.053</vendorCode>
+        <description>Ложка для кормления "Easy Learning" идеально подойдет для кормления малыша. Ложка имеет закругленные края для оптимальной безопасности и удлиненную, хорошо гнущуюся нескользкую ручку, что облегчает зачерпывание пищи из глубоких баночек. Можно мыть в посудомоечной машине.</description>
+        <barcode>4008600082538</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="5173202" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5173202/?from=prt_xml_facet</url>
+        <price>445</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001729638.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001729637.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка пластиковая "Easy Learning", глубокая, цвет: синий, от 6 месяцев</name>
+        <vendor>Easy Learning</vendor>
+        <vendorCode>10.255.050</vendorCode>
+        <description>Глубокая пластиковая тарелка "Easy Learning" с удобными нескользкими ручками и крышкой идеальна для кормления малыша и самостоятельного приема пищи. Высокие наклонные края тарелки облегчают зачерпывание пищи, а нескользкое дно гарантирует устойчивое положение тарелки на поверхности. Тарелку можно использовать в микроволновых печах и посудомоечных машинах.</description>
+        <barcode>4008600082514</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="5173242" available="false">
+        <url>http://www.ozon.ru/context/detail/id/5173242/?from=prt_xml_facet</url>
+        <price>661</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001747420.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001748687.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001748688.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001749357.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Тарелка Nuby "Улет! Посуда" для СВЧ-печи с крышкой, от 6 месяцев. 5210</name>
+        <vendor>Luv n'care Ltd.</vendor>
+        <vendorCode>5210</vendorCode>
+        <description>Тарелка Nuby "Улет! Посуда" для СВЧ-печи с крышкой изготовлена из прочного небьющегося пластика и подходит для ежедневного кормления ребенка. Ее удобно использовать во время путешествий или прогулок. Такую тарелку легко держать как левой, так и правой рукой. Она достаточно глубокая и подходит для хранения любого вида пищи. Плотная крышка надежно закрывается и не допускает протекания или вытекания содержимого.</description>
+        <barcode>048526052103</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Год выпуска">2010</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Пакет</param>
+      </offer>
+      <offer id="5223244" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5223244/?from=prt_xml_facet</url>
+        <price>116</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001766810.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001766809.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелочка детская "Курносики" трехсекционная, от 4 месяцев, цвет в ассортименте</name>
+        <vendor>Курносики</vendor>
+        <vendorCode>17321</vendorCode>
+        <description>Тарелочка детская "Курносики" трехсекционная предназначена для детей от 4 месяцев. Тарелочка выполнена из прочного безопасного материала и прошла тщательный контроль качества. Три секции тарелочки позволяют одновременно предлагать ребенку разные виды пищи. Подходит для горячего и холодного питания.</description>
+        <barcode>4605658173210</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="5438026" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5438026/?from=prt_xml_facet</url>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001910970.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001910969.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001919106.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка детская "Beaba" в ассорт.</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913182</vendorCode>
+        <description>Детские ложечки "Beaba" разработаны специально для маленьких ротиков и нежных десен малыша, поэтому они небольшого объема. Они имеют длинную ручку, которую удобно держать родителям, для простоты кормления без проливаний.</description>
+        <barcode>3384349131821</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Пояснительное наименование">BPA free (не содержит бисфенола-А)</param>
+        <param name="Год выпуска">2010</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="5438027" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5438027/?from=prt_xml_facet</url>
+        <price>1050</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1001919159.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1001919160.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детских ложек "Beaba", от 6 месяцев, 4 шт</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913183</vendorCode>
+        <description>Набор ложек "Beaba" состоит из оранжевой, зеленой, розовой и фиолетовой ложек. Ложки специально разработаны для маленьких ротиков и нежных десен малыша. Они имеют силиконовые края, которые не травмируют рот малыша и длинную ручку, которую удобно держать родителям, для простоты кормления без проливаний.</description>
+        <barcode>3384349131838</barcode>
+        <param name="Материал">4 ложки.</param>
+        <param name="Пояснительное наименование">BPA free (не содержит бисфенола-А)</param>
+        <param name="Тип игры">Наборы детской посуды</param>
+        <param name="Год выпуска">2010</param>
+        <param name="Количество элементов">4</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="5552028" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5552028/?from=prt_xml_facet</url>
+        <price>1110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002042279.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002042278.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "BabyBjorn": тарелка, 2 ложки, цвет: красный</name>
+        <vendor>BabyBjorn</vendor>
+        <vendorCode>0710.05</vendorCode>
+        <description>Используя тарелку "BabyBjorn" вместе с ложками, Ваш малыш сможет легко научиться есть самостоятельно. Тарелка в форме трилистника позволяет ребенку зачерпывать еду самому, она устойчиво стоит на столе и маленьким ручкам трудно захватить ее и сбросить на пол. Резиновая основа предохраняет тарелку от скольжения. Внешний, наклонный край оставляет тарелку устойчивой, если ребенок ударяет по нему. Форма ложки, разработанная с учетом особенностей движения детских рук, обеспечивает отсутствие остатков пищи и ей можно пользоваться как правой, так и левой рукой. Выемка позволяет предохранить ложку от соскальзывания внутрь тарелки. Ограничительное кольцо предотвращает соскальзывание детской ручки. Тарелку с ложками можно мыть в посудомоечной машине.</description>
+        <barcode>7317680710055</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+      </offer>
+      <offer id="5552031" available="false">
+        <url>http://www.ozon.ru/context/detail/id/5552031/?from=prt_xml_facet</url>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002042291.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002042290.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Отгружается в течение двух недель</ordering>
+        </orderingTime>
+        <name>Набор для кормления "BabyBjorn": тарелка, 2 ложки, цвет: белый</name>
+        <vendor>BabyBjorn</vendor>
+        <vendorCode>0710.21</vendorCode>
+        <description>Используя тарелку "BabyBjorn" вместе с ложками, Ваш малыш сможет легко научиться есть самостоятельно. Тарелка в форме трилистника позволяет ребенку зачерпывать еду самому, она устойчиво стоит на столе и маленьким ручкам трудно захватить ее и сбросить на пол. Резиновая основа предохраняет тарелку от скольжения. Внешний, наклонный край оставляет тарелку устойчивой, если ребенок ударяет по нему. Форма ложки, разработанная с учетом особенностей движения детских рук, обеспечивает отсутствие остатков пищи и ей можно пользоваться как правой, так и левой рукой. Выемка позволяет предохранить ложку от соскальзывания внутрь тарелки. Ограничительное кольцо предотвращает соскальзывание детской ручки. Тарелку с ложками можно мыть в посудомоечной машине.</description>
+        <barcode>7317680710215</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Тарелка, 2 ложки.</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="5552037" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5552037/?from=prt_xml_facet</url>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003270453.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003270454.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка для кормления "BabyBjorn", цвет: розовый, черный, 2 шт</name>
+        <vendor>BabyBjorn</vendor>
+        <vendorCode>0760.08</vendorCode>
+        <description>Ложка для кормления "BabyBjorn" идеально подойдет для кормления малыша. Форма ложки, разработанная с учетом особенностей движения детских рук, обеспечивает отсутствие остатков пищи и ей можно пользоваться как правой, так и левой рукой. Выемка позволяет предохранить ложку от соскальзывания внутрь тарелки. Ограничительное кольцо предотвращает соскальзывание детской ручки. Ложки можно мыть в посудомоечной машине.</description>
+        <barcode>7317680760081</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Материал">2 ложки</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Коробка</param>
+        <param name="Возраст макс.">3 лет</param>
+      </offer>
+      <offer id="5591818" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5591818/?from=prt_xml_facet</url>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003562086.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Глубокая тарелка "Avent" (Авент), от 12 месяцев, 450 мл</name>
+        <vendor>Philips Electronic UK Ltd.</vendor>
+        <vendorCode>65620</vendorCode>
+        <description>Тарелка "Avent" украшена веселыми и красочными развивающими рисунками. Широкие края и нескользящее основание, которое предотвращает ее скольжение и переворачивание, помогают малышу учиться есть самостоятельно. Тарелку можно мыть в посудомоечной машине и разогревать в микроволновке.</description>
+        <barcode>8710103526926</barcode>
+      </offer>
+      <offer id="5591819" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5591819/?from=prt_xml_facet</url>
+        <price>391</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003562074.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Глубокая тарелка "Avent" (Авент), от 6 месяцев, 230 мл</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65630</vendorCode>
+        <description>Тарелка "Avent" украшена веселыми и красочными развивающими рисунками. Широкие края и нескользящее основание, которое предотвращает ее скольжение и переворачивание, помогают малышу учиться есть самостоятельно. Тарелку можно мыть в посудомоечной машине и разогревать в микроволновке.</description>
+        <barcode>8710103526933</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Год выпуска">2010</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="5591822" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5591822/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003261500.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления Avent (Авент), от 6 месяцев, 5 предметов</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65680</vendorCode>
+        <description>Набор для кормления "Avent" включает в себя тарелку с разделителями для порций, маленькую глубокую тарелку, большую глубокую тарелку, ложечку и вилочку. На всей посуде нанесены веселые и красочные развивающие рисунки. У всех тарелок широкие края и нескользящее основание, которое предотвращает скольжение тарелки по столу и ее переворачивание, что удобно для самостоятельного питания малыша. Разделители, на одной из тарелок, не дают еде смешиваться. Ложка и вилка специально разработаны для маленьких ручек, их рабочие части имеют округлую форму для дополнительной безопасности ребенка. Благодаря нескользящему покрытию на ручках, их удобно держать и они не съезжают с края тарелки. Посуду можно мыть в посудомоечной машине и разогревать в микроволновке. В комплекте также есть буклет с рецептами, составленный педиатром-диетологом.</description>
+        <barcode>8710103526988</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+      </offer>
+      <offer id="5591824" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5591824/?from=prt_xml_facet</url>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116253</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003562070.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Avent" (Авент): ложка, вилка, нож, от 18 месяцев</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65670</vendorCode>
+        <description>Набор столовых приборов "Avent" состоит из ложки, вилки и ножа специально разработанных для маленьких ручек. Рабочие части приборов имеют округлую форму для дополнительной безопасности ребенка. Благодаря нескользящему покрытию на ручках, их удобно держать и они не съезжают с края тарелки. Приборы можно мыть в посудомоечной машине.</description>
+        <barcode>8710103526971</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Ложка, вилка, нож.</param>
+        <param name="Год выпуска">2010</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="5591825" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5591825/?from=prt_xml_facet</url>
+        <price>410</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003264229.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003264227.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка "Avent", с разделителями для порций, от 12 месяцев</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65610</vendorCode>
+        <description>Тарелка "Avent" с разделителями для порций не дает смешиваться еде. На поверхности тарелки нанесены веселые и красочные развивающие рисунки. Широкие края и нескользящее основание, которое предотвращает ее скольжение и переворачивание, помогают малышу учиться есть самостоятельно. Тарелку можно мыть в посудомоечной машине и разогревать в микроволновке.</description>
+        <barcode>8710103526919</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="5932831" available="true">
+        <url>http://www.ozon.ru/context/detail/id/5932831/?from=prt_xml_facet</url>
+        <price>127</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002313002.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002312999.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002313000.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелочка детская "Курносики", от 5 месяцев, в ассортименте</name>
+        <vendor>Курносики</vendor>
+        <vendorCode>17323</vendorCode>
+        <description>Тарелочка детская "Курносики" предназначена для детей от 5 месяцев. Тарелка подходит для горячей и холодной пищи. Имеет удобные ручки с выпуклыми поверхностями, которые предотвращают ее выскальзывание из рук. Тарелочка выполнена из прочного безопасного материала и прошла тщательный контроль качества.</description>
+        <barcode>4605658173234</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="6249837" available="true">
+        <url>http://www.ozon.ru/context/detail/id/6249837/?from=prt_xml_facet</url>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116253</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002495173.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002495174.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Чашка-поильник "Mebby", от 18 месяцев, 311 мл</name>
+        <vendor>Mebby Love &amp; Science</vendor>
+        <vendorCode>92179</vendorCode>
+        <description>Чашка-поильник "Mebby" с антикапельным клапаном и силиконовой трубочкой идеально подойдет для малышей. Благодаря клапану, предотвращающему проливание, из этой чашки не прольется ни капли, даже если ее встряхивать, подбрасывать или ронять, но при этом из нее легко пить.</description>
+        <barcode>8025081921794</barcode>
+        <param name="Тип">Чашка-поильник</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">0</param>
+      </offer>
+      <offer id="6249841" available="true">
+        <url>http://www.ozon.ru/context/detail/id/6249841/?from=prt_xml_facet</url>
+        <price>364</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002536987.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002536985.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002536986.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Соска для подачи протертого питания "Genius", большая, цвет: розовый</name>
+        <vendor>Mebby Love &amp; Science</vendor>
+        <vendorCode>92236</vendorCode>
+        <description>Соска "Genius" идеально подходит для отлучения ребенка от кормления грудью и помогает облегчить переход на твердую пищу. Соска для подачи протертого питания состоит из: силиконовой соски с отверстиями, специального держателя с маленькими ручками и защитного колпачка.</description>
+        <barcode>8025081922364</barcode>
+        <param name="Тип">Соска</param>
+        <param name="Материал">Соска, колпачок, держатель.</param>
+      </offer>
+      <offer id="6249842" available="true">
+        <url>http://www.ozon.ru/context/detail/id/6249842/?from=prt_xml_facet</url>
+        <price>364</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1002534936.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002534933.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1002534934.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Соска для подачи протертого питания "Genius", средняя, цвет: розовый</name>
+        <vendor>Mebby Love &amp; Science</vendor>
+        <vendorCode>92225</vendorCode>
+        <description>Соска "Genius" идеально подходит для отлучения ребенка от кормления грудью и помогает облегчить переход на твердую пищу. Соска для подачи протертого питания состоит из: силиконовой соски с отверстиями, специального держателя с маленькими ручками и защитного колпачка.</description>
+        <barcode>8025081922258</barcode>
+        <param name="Возраст ребенка">От 3 месяцев</param>
+        <param name="Тип">Соска</param>
+        <param name="Материал">Соска, колпачок, держатель.</param>
+      </offer>
+      <offer id="7018471" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7018471/?from=prt_xml_facet</url>
+        <price>60</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003159874.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Canpol Babies": ложка, вилка, в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>2/105</vendorCode>
+        <description>Специально разработанный столовый набор "Canpol Babies", который состоит из вилки и ложки, выполнен из безопасного материала. Закругленная форма столовых приборов подходит для маленьких ротиков и обеспечивает удобное кормление.</description>
+        <barcode>5903407021058</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+      </offer>
+      <offer id="7018484" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7018484/?from=prt_xml_facet</url>
+        <price>321</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003162489.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка с ушками "Canpol Babies", в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>4/415</vendorCode>
+        <description>Тарелка "Canpol Babies" имеет необычную форму и практичные ушки, позволяющие удобно держать ее во время кормления, приготовления пищи и переноски. Красочное оформление тарелки сделает привлечет малыша и сделает прием пищи более приятным.</description>
+        <barcode>5903407044156</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="7018485" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7018485/?from=prt_xml_facet</url>
+        <price>214</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116253</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003162171.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Кружка "Мальчик и девочка", в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>4/408</vendorCode>
+        <description>Улыбающиеся лица мальчика и девочки на кружке непременно привлекут внимание малыша во время кормления и сделают его более увлекательным. Кружку можно использовать для подогревания напитков в микроволновой печи.</description>
+        <barcode>5903407044088</barcode>
+        <param name="Тип">Кружка</param>
+      </offer>
+      <offer id="7107974" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7107974/?from=prt_xml_facet</url>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003568387.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка "Dr.Brown's", трехсекционная, 2 шт</name>
+        <vendor>Dr.Brown's</vendor>
+        <vendorCode>725</vendorCode>
+        <description>Трехсекционная тарелка для кормления "Dr.Brown's" не дает смешиваться еде. Специальная форма краев, облегчающая кормление, идеальный размер секций, нескользящее основание помогают малышу учиться есть самостоятельно.</description>
+        <barcode>0072239007259</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="7139584" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7139584/?from=prt_xml_facet</url>
+        <price>413</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003206415.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Pigeon" (Пиджеон). Бутылочка с ложкой, от 3 месяцев</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03012</vendorCode>
+        <description>Набор для кормления "Pigeon" (Пиджеон) используется для детей с начала введения прикорма (для соков и бульонов). Набор состоит из бутылочки и ложки. Набор помогает малышу быстро привыкнуть кушать из ложки. В отличие от обычной ложки, отпала необходимость много раз подносить ее ко рту, достаточно слегка надавить на бутылочку и жидкая пища начнет поступать в ложку по желобку. К набору прилагается щеточка.</description>
+        <barcode>4902508030120</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Бутылочка, ложка, щеточка</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="7139586" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7139586/?from=prt_xml_facet</url>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005387999.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003202453.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003202454.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Отгружается в течение 2-3 дней</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Pigeon" (Пиджеон), от 12 месяцев</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03142</vendorCode>
+        <description>Набор для кормления "Pigeon" включает в себя ложку, вилку и контейнер для хранения. Ложка и вилка специально разработаны с учетом развития детской моторики. Когда ребенок научился брать еду руками можно начать обучать его пользоваться столовыми приборами. Размер ложки и вилки точно рассчитан под детскую ручку, их легко поднимать и сжимать. Удобная форма ложки облегчает зачерпывание еды и вложение ложки в рот. Ограничитель на вилке защищает горло от контакта с прибором, а двусторонняя конструкция позволяет накалывать пишу любой стороной. Нескользящие круглые ручки позволяют правильно держать приборы, а верхняя закругленная часть предотвращает выскальзывание из руки.</description>
+        <barcode>4902508031424</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Ложка, вилка, контейнер</param>
+      </offer>
+      <offer id="7139588" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7139588/?from=prt_xml_facet</url>
+        <price>960</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003202623.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003206042.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Набор "Pigeon" (Пиджеон). Вилка, ложка, от 2 лет</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03144</vendorCode>
+        <description>Набор "Pigeon" (Пиджеон) состоит из ложки, вилки и футляра. Набор предназначен для малышей, которые уже получили первые навыки самостоятельно есть ложкой и вилкой.</description>
+        <barcode>4902508031448</barcode>
+        <param name="Материал">Вилка, ложка, футляр</param>
+        <param name="Тип игры">Детская посуда и аксессуары</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Пакет</param>
+        <param name="Возраст мин.">2</param>
+      </offer>
+      <offer id="7139589" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7139589/?from=prt_xml_facet</url>
+        <price>697</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003202141.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка "Pigeon" (Пиджеон) с нескользящими ручками, с подставкой</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03146</vendorCode>
+        <description>Тарелка "Pigeon" с нескользящими ручками и с подставкой предназначен для малыша, который уже получил первые навыки самостоятельно есть ложкой и вилкой. Можно использовать в микроволновой печи.</description>
+        <barcode>4902508031462</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="7139590" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7139590/?from=prt_xml_facet</url>
+        <price>335</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005387996.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Набор ложек "Pigeon" (Пиджеон) для пюре и сока, от 4 месяцев, 2 шт</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03195 / 04578</vendorCode>
+        <description>Набор ложек "Pigeon" состоит из ложки для пюре и ложки для сока. Ложки специально разработаны с учетом развития полости рта малыша в возрасте от 4 месяцев для легкого перехода от соски к ложке, от жидкой пищи к густой. Ложки с ограничителями в основании, которые защищают горло от контакта с прибором. Мягкий материал не травмирует рот малыша, а размер и глубина ложек прекрасно подходят для рта младенца, чтобы кушать и пить маленькими глоточками. Форма ложки для сока напоминает край чашки, что облегчает переход к приему жидкости из чашки.</description>
+        <barcode>4902508045780</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Материал">Ложка для пюре, ложка для сока.</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Пакет</param>
+      </offer>
+      <offer id="7139592" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7139592/?from=prt_xml_facet</url>
+        <price>473</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116253</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003201658.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Чашка-поильник Pigeon "Mag Mag" с соской, от 2 месяцев, 200 мл</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>03928</vendorCode>
+        <description>Чашка-поильник Pigeon "Mag Mag" с перистальтической соской удобна для обучения ребенка навыкам самостоятельного питья. Изогнутые ручки помогают малышу самостоятельно донести поильник до рта. Нескользящее дно обеспечивает устойчивость чашки. Соска закрывается защитным колпачком. Идеальная форма перистальтической соски великолепно сочетается с ямкой для сосания (отверстие в верхней челюсти малыша, обычно исчезающее в процессе развития вместе с прекращением сосания), а выполненная в виде гармошки часть соски способствует естественным перистальтическим (волнообразным) движениям языка малыша. Супер мягкая, двойной толщины силиконовая резина отличается идеальной мягкостью и эластичностью, обеспечивая легкость и комфорт малышу при захватывании соски. Форма соски идеально сочетается с языком младенца, обеспечивая мягкие движения языка, а вентиляционное отверстие в основании соски выравнивает давление воздуха внутри бутылки, минимизируя его попадание в молоко. Чашку можно...</description>
+        <barcode>4902508039284</barcode>
+        <param name="Тип">Чашка-поильник</param>
+      </offer>
+      <offer id="7219829" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7219829/?from=prt_xml_facet</url>
+        <price>299</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003578642.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003578641.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка детская "Baby"</name>
+        <vendor>Tramontina</vendor>
+        <vendorCode>66970/000-TR</vendorCode>
+        <description>Ложка "Baby" с изогнутой формой, выполнена из нержавеющей стали, удобна в использовании и незаменима в период, когда малыш учится есть самостоятельно. Ручка оформлена рельефным изображением медвежонка.</description>
+        <barcode>7891116001936</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="7294290" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7294290/?from=prt_xml_facet</url>
+        <price>1080</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003540749.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003540748.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Beaba", цвет: оранжевый, зеленый, 5 предметов</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913116</vendorCode>
+        <description>Набор для кормления "Beaba" включает в себя большую тарелку с нескользящим основанием, глубокую порционную тарелку, ложку, вилку и защитную крышку-держатель. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Резиновая основа большой тарелки предохраняет ее от скольжения, благодаря чему, ваш малыш не сможет ее опрокинуть. Благодаря специальному основанию, порционную тарелку можно ставить на большую, не боясь того что она соскользнет и опрокинется. Форма ложки и вилки разработана с учетом особенностей движения детских рук, ими можно пользоваться как правой, так и левой рукой. Плотно прилегающая крышка удобна для сохранения еды теплой и хранения в холодильнике. У крышки имеются специальные хлястики, позволяющие соединить тарелки вместе, что облегчает хранение и транспортировку набора. Все предметы набора можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349131166</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Пояснительное наименование">Тарелка, глубокая порционная тарелка, ложка, вилка, крышка</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">5</param>
+        <param name="Упаковка">Коробка пластиковая</param>
+      </offer>
+      <offer id="7324799" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324799/?from=prt_xml_facet</url>
+        <price>467</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003375259.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнер-дозатор для смесей "Beaba". 911369</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>911369</vendorCode>
+        <description>Контейнер-дозатор для смесей "Beaba" позволяет разместить 3 предварительно отмеренные порции сухого молока в разных отделениях. Дозатор состоит из 3 небольших контейнеров, которые вставляются друг в друга. Контейнер защищает смеси от воздуха и света и имеет специальное горлышко для удобства использования. Внутренние секции дозатора можно использовать в качестве контейнера. Благодаря удобной форме контейнер-дозатор занимает мало места в сумочке и на кухне.</description>
+        <barcode>3384349113698</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="7324800" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324800/?from=prt_xml_facet</url>
+        <price>467</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003375263.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнер-дозатор для смесей "Beaba". 911370</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>911370</vendorCode>
+        <description>Контейнер-дозатор для смесей "Beaba" позволяет разместить 3 предварительно отмеренные порции сухого молока в разных отделениях. Дозатор состоит из 3 небольших контейнеров, которые вставляются друг в друга. Контейнер защищает смеси от воздуха и света и имеет специальное горлышко для удобства использования. Внутренние секции дозатора можно использовать в качестве контейнера. Благодаря удобной форме контейнер-дозатор занимает мало места в сумочке и на кухне.</description>
+        <barcode>3384349113704</barcode>
+        <param name="Пояснительное наименование">BPA free (не содержит бисфенола-А)</param>
+        <param name="Тип игры">Бутылочки, соски и аксессуары для кормления</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Пакет</param>
+      </offer>
+      <offer id="7324812" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324812/?from=prt_xml_facet</url>
+        <price>303</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003264382.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003264381.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Avent (Авент)": ложка, вилка, от 12 месяцев</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65690</vendorCode>
+        <description>Набор столовых приборов "Avent" состоит из ложки и вилки специально разработанных для маленьких ручек. Рабочие части приборов имеют округлую форму для дополнительной безопасности ребенка, а благодаря нескользящему покрытию на ручках, их удобно держать и они не съезжают с края тарелки. Глубокие края позволяют зачерпывать жидкую и густую пищу. Приборы упакованы в дорожный пластиковый футляр обеспечивающий чистоту ложки и вилки в дороге. К тому же все предметы набора можно мыть в посудомоечной машине.</description>
+        <barcode>8710103537311</barcode>
+        <param name="Материал">Ложк, вилка, футляр</param>
+        <param name="Пояснительное наименование">Набор столовых приборов в дорожном футляре</param>
+        <param name="Тип игры">Детские тарелки, ложки, вилки</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Блистер</param>
+        <param name="Возраст мин.">12 месяцев</param>
+      </offer>
+      <offer id="7324820" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324820/?from=prt_xml_facet</url>
+        <price>6200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003589384.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003589383.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003589639.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Блендер-пароварка Philips "Avent (Авент)"</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>85300</vendorCode>
+        <description>Блендер-пароварка Philips "Avent (Авент)" будет незаменимым помощником для родителей, позволяя готовить свежую еду для детей с помощью удобных функций пароварки и блендера, совмещенных в одном устройстве. Кормление разнообразной свежей пищей помогает с первых лет приучить ребенка к здоровому образу жизни, а обработка паром является лучшим способом приготовления питательной еды. Универсальный блендер-пароварка Philips "Avent (Авент)" бережно готовит на пару фрукты, овощи, рыбу и мясо, а также смешивает все приготовленные ингредиенты до консистенции, которая наиболее подходит для нужд вашего ребенка. Пароварка автоматически отключается при завершении цикла обработки паром, а чтобы начать измельчение, достаточно просто перевернуть чашу, еду не надо перекладывать. В комплект также входит лопаточка, мерный стакан и брошюра, которая содержит полезную информацию и профессиональные советы о различных этапах отлучения от груди, а также примеры планов питания и рецепты,...</description>
+        <barcode>8710103472636</barcode>
+        <param name="Тип">Блендер</param>
+        <param name="Материал">Блок с электродвигателем, чаша, мерный стакан, лопаточка, брошюра с рецептами, инструкция на русском языке</param>
+      </offer>
+      <offer id="7324831" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324831/?from=prt_xml_facet</url>
+        <price>295</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003265582.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Крышка для контейнеров Avent (Авент) "VIA", 10 шт</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>84560</vendorCode>
+        <description>Плотно завинчивающиеся крышки "VIA" превращают любую бутылочку и чашку в контейнер для хранения молока и продуктов. К тому же прямо на крышке можно указать дату начала хранения, что позволяет легко различать содержимое контейнеров по свежести.</description>
+        <barcode>5012909010498</barcode>
+        <param name="Материал">10 крышек</param>
+        <param name="Тип игры">Бутылочки, соски и аксессуары для кормления</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">10</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="7324847" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324847/?from=prt_xml_facet</url>
+        <price>688</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003554833.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнер для хранения грудного молока "Avent (Авент)", 125 мл, 4 шт</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>86090</vendorCode>
+        <description>Контейнеры "Avent (Авент)" предназначены для хранения грудного молока и всех видов детского питания в холодильнике или морозильной камере. Если вы сочетаете грудное вскармливание с кормлением из бутылочки предварительно сцеженным грудным молоком, либо вынуждены кормить ребенка только из бутылочки, контейнеры для хранения грудного молока "Avent (Авент)" - наилучшее решение! Не нужно переливать молоко в бутылочку, просто вставьте соску "Avent (Авент)" в фиксирующее кольцо и используйте контейнер для кормления. Не содержат бисфенола-A.</description>
+        <barcode>8710103495642</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">4 контейнера</param>
+      </offer>
+      <offer id="7324906" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324906/?from=prt_xml_facet</url>
+        <price>270</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003555163.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Avent" (Авент): ложка, вилка, от 12 месяцев</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65660</vendorCode>
+        <description>Набор столовых приборов "Avent" состоит из ложки и вилки специально разработанных для маленьких ручек. Рабочие части приборов имеют округлую форму для дополнительной безопасности ребенка. Благодаря нескользящему покрытию на ручках, их удобно держать и они не съезжают с края тарелки. Приборы можно мыть в посудомоечной машине.</description>
+        <barcode>8710103526964</barcode>
+        <param name="Материал">Ложка, вилка</param>
+        <param name="Тип игры">Детские тарелки, ложки, вилки</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">2</param>
+      </offer>
+      <offer id="7324910" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7324910/?from=prt_xml_facet</url>
+        <price>660</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003662456.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003662454.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор тарелок "Avent", от 6 месяцев</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65640</vendorCode>
+        <description>Набор тарелок "Avent" состоит из большой и маленькой глубоких тарелок. Тарелки украшены веселыми и красочными развивающими рисунками. Широкие края и нескользящее основание, которое предотвращает ее скольжение и переворачивание, помогают малышу учиться есть самостоятельно. Тарелки можно мыть в посудомоечной машине и разогревать в микроволновке.</description>
+        <barcode>8710103526940</barcode>
+        <param name="Тип">Тарелка</param>
+      </offer>
+      <offer id="7369640" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7369640/?from=prt_xml_facet</url>
+        <price>537</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003662122.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003662121.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнеры для хранения грудного молока NUK "First Choice", 3х150 мл</name>
+        <vendor>NUK</vendor>
+        <vendorCode>10 252 062</vendorCode>
+        <description>Контейнеры "First Choice" предназначены для практичного и гигиеничного хранения материнского молока между сцеживанием и кормлением (не нужно переливать). Они подходят как для ручного молокоотсоса "Sensitive", так и для электрического молокоотсоса "E-Motion", а также комбинируются с любыми сосками "First Choice". Контейнеры можно использовать для охлаждения и замораживания молока, а для большего удобства у них имеется поле для указания даты и времени сцеживания. Молоко легко разогревать, рекомендуется использовать подогреватель детского питания NUK.</description>
+        <barcode>4008600090090</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="7369688" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7369688/?from=prt_xml_facet</url>
+        <price>175</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003658873.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003658872.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Мини столовые приборы для кормления NUK "Easy Learning", от 8 месяцев в ассортименте</name>
+        <vendor>NUK</vendor>
+        <vendorCode>10 255 047</vendorCode>
+        <description>Столовые приборы для кормления "Easy Learning" очень маленькие и легкие, поэтому идеально подходят для обучения детей самостоятельному приему пищи. Закругленные края и зубцы специально разработаны для ротика Вашего малыша и обеспечивают максимальную безопасность. Эргономичные, нескользящие ручки с узелками, облегчает зачерпывание пищи, и способствуют развитию осязания. Можно мыть в посудомоечной машине.</description>
+        <barcode>4008600082545</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+      </offer>
+      <offer id="7369813" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7369813/?from=prt_xml_facet</url>
+        <price>210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003539476.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнер-дозатор для смесей "Tigex (Тижекс)", в ассортименте</name>
+        <vendor>Tigex</vendor>
+        <vendorCode>339 620</vendorCode>
+        <description>Контейнер-дозатор для смесей "Tigex (Тижекс)" позволяет разместить 4 предварительно отмеренные порции сухого молока в разных отделениях. Дозатор состоит из 4 небольших контейнеров, которые вставляются друг в друга. Контейнер защищает смеси от воздуха и света и имеет специальную вращающуюся крышку с носиком, устанавливаемым напротив выбранного отделения. Внутренние секции дозатора можно использовать в качестве контейнера. Благодаря удобной форме контейнер-дозатор занимает мало места в сумочке и на кухне.</description>
+        <barcode>3159923396206</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="7369817" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7369817/?from=prt_xml_facet</url>
+        <price>217</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003855970.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка для кормления "Tigex (Тижекс)", силиконовая, от 3 месяцев</name>
+        <vendor>Tigex</vendor>
+        <vendorCode>820 010</vendorCode>
+        <description>Ложка "Tigex (Тижекс)" разработана для младенцев, чтобы облегчить переход от кормления из бутылочки к ложке. Очень мягкая и гибкая силиконовая ложка не ранит нежные десна ребенка и не придает привкуса пище. С помощью длинной ручки вы без труда зачерпнете пищу со дна баночки любого размера. Ложку разрешается мыть в посудомоечной машине. Не использовать в микроволновой печи.</description>
+        <barcode>3159928200102</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="7369818" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7369818/?from=prt_xml_facet</url>
+        <price>273</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003780583.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка для кормления "Tigex (Тижекс)", от 6 месяцев, 2 шт</name>
+        <vendor>Tigex</vendor>
+        <vendorCode>820 100</vendorCode>
+        <description>Первую ложку "Tigex (Тижекс)" можно держать как в правой, так и в левой руке. С помощью длинной ручки вы без труда зачерпнете пищу со дна баночки любого размера. Ложка изготовлена из пластичного, но твердого материала, разработанного с целью не повредить нежные десны ребенка. Ложку разрешается мыть в посудомоечной машине. Не использовать в микроволновой печи.</description>
+        <barcode>3159928201000</barcode>
+        <param name="Материал">2 ложки</param>
+        <param name="Тип игры">Детские тарелки, ложки, вилки</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="7451855" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7451855/?from=prt_xml_facet</url>
+        <price>653</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003612877.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1003612865.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Миксер для детского питания "BabyBoss"</name>
+        <vendor>BabyBoss</vendor>
+        <vendorCode>BBM0609</vendorCode>
+        <description>Миксер для детского питания "BabyBoss" поможет вам быстро, легко и удобно приготовить питание для малыша без единого комочка. Также при помощи миксера вы можете перемешивать смеси прямо в детской бутылочке. Благодаря компактным размерам и работе от батареек его легко и удобно использовать в любое время и в любом месте: на прогулке, в путешествии, в самолете и автомобиле, в общественных местах и дома.</description>
+        <barcode>6942436400099</barcode>
+        <param name="Тип">Миксер</param>
+      </offer>
+      <offer id="7561816" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7561816/?from=prt_xml_facet</url>
+        <price>1699</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003847211.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор аксессуаров для блендера-пароварки Beaba "Babycook"</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>912155</vendorCode>
+        <description>Набор аксессуаров является отличным дополнением для блендера-пароварки Beaba "Babycook" . В набор входят пластиковый контейнер для варки круп, силиконовый контейнер для специй, силиконовый поильник для пюре и густого бульона. Контейнер для варки круп изготовлен из высококачественной пищевой пластмассы и используется для варки риса, гречки, а также для приготовления макаронных изделий при помощи пара. Силиконовый контейнер для специй является инновацией в паровой готовке пищи для ребенка. Со временем малыша необходимо приучать к вкусу различных специй, пряностей и ароматных трав. Они расширяют его вкус, а также являются полезным дополнением в рационе. Необходимо лишь поместить специю в контейнер, который положить на мясо при его готовке, или опустить в мясной бульон. Все полезные вещества от пряности ребенок получит при питании, не подавившись при этом мелкими частицами самой приправы. Миниатюрный размер контейнера, а также его...</description>
+        <barcode>3384349401078</barcode>
+        <param name="Материал">Контейнер для круп, контейнер для специй, поильник</param>
+        <param name="Тип игры">Аксессуары</param>
+        <param name="Год выпуска">2011</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="7597028" available="true">
+        <url>http://www.ozon.ru/context/detail/id/7597028/?from=prt_xml_facet</url>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1004708694.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Baby Nova", 3 предмета</name>
+        <vendor>Baby Nova</vendor>
+        <vendorCode>34338</vendorCode>
+        <description>Учебный набор столовых приборов "Baby Nova" разработан специально для тех, кто только учится самостоятельно держать в руках не только ложку и вилку, но нож. Столовые приборы с декоративными накладками удобно располагаются в кулачке ребенка, помогая развивать координацию движений, а закругленные края не позволят ему пораниться. Набор "Baby Nova" состоит из трех предметов - ложки и вилки, изготовленных из нержавеющей стали.</description>
+        <barcode>4001071343382</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Ложка, вилка, нож</param>
+        <param name="Пояснительное наименование">Учебный набор</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Блистер</param>
+        <param name="Возраст мин.">1 года</param>
+      </offer>
+      <offer id="7597029" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7597029/?from=prt_xml_facet</url>
+        <price>195</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1004089620.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Отгружается в течение двух недель</ordering>
+        </orderingTime>
+        <name>Набор ложек "Baby Nova", 5 шт</name>
+        <vendor>Baby Nova</vendor>
+        <vendorCode>34602</vendorCode>
+        <description>Набор "Baby Nova" состоит из пяти детских ложек разных цветов. Ложки имеют специальную конструкцию, удобную для детских ручек. Их удобно держать как правой, так и левой рукой. Безопасные с округлыми краями ложки "Baby Nova" помогут малышу научиться уверенно пользоваться столовыми приборами. Ложки изготовлены из высококачественного полипропилена, не содержащего Бисфенол-А.</description>
+        <barcode>4001071346024</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">5 ложек</param>
+      </offer>
+      <offer id="7597030" available="false">
+        <url>http://www.ozon.ru/context/detail/id/7597030/?from=prt_xml_facet</url>
+        <price>255</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1003865644.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Отгружается в течение двух недель</ordering>
+        </orderingTime>
+        <name>Набор ложек "Baby Nova", 3 шт</name>
+        <vendor>Baby Nova</vendor>
+        <vendorCode>34608</vendorCode>
+        <description>Набор "Baby Nova" состоит из трех детских длинных ложек разных цветов. Малыш подрос и уже можно прикармливать его детскими кашками и пюре. Ложечка "Baby Nova" с длинной ручкой подойдет для этого как нельзя лучше. Размер ложки подобран, исходя из физиологического строения рта ребенка, а порция такой ложки достаточна для того, чтобы малыш смог ее съесть. Округлые края ложки не поранят десны малыша. Ложки изготовлены из высококачественного полипропилена, не содержащего Бисфенол-А.</description>
+        <barcode>4001071346086</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">3 ложки</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="8777795" available="true">
+        <url>http://www.ozon.ru/context/detail/id/8777795/?from=prt_xml_facet</url>
+        <price>566</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005262391.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детской стеклянной посуды "Маша и Медведь"</name>
+        <vendor>ОСЗ</vendor>
+        <vendorCode>4606065026571 (95590)</vendorCode>
+        <description>Набор детской стеклянной посуды "Маша и Медведь" привлечет внимание вашей малышки и не позволит ей скучать. Набор состоит из чашки, супницы и тарелки. Посуда оформлена изображением любимых героев мультсериала "Маша и Медведь". Порадуйте свою малышку этим замечательным набором! Предметы набора допустимо использовать в микроволновой печи и мыть в посудомоечной машине.</description>
+        <barcode>4606065026571</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+        <param name="Материал">Стекло</param>
+      </offer>
+      <offer id="16693783" available="false">
+        <url>http://www.ozon.ru/context/detail/id/16693783/?from=prt_xml_facet</url>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005412125.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Контейнер для пищевых продуктов "Beaba", пластиковый, 500 мл, в ассортименте</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>912260</vendorCode>
+        <description>Контейнер "Beaba" предназначен для хранения и замораживания блюд ребенка. Крышка легко открывается и плотно закрывается. На контейнер нанесена шкала с делениями для точного определения количества еды. Контейнер может быть использован в микроволновой печи, морозильной камере и посудомоечной машине.</description>
+        <barcode>3384349122607</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">0</param>
+      </offer>
+      <offer id="16693790" available="false">
+        <url>http://www.ozon.ru/context/detail/id/16693790/?from=prt_xml_facet</url>
+        <price>2123</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005411805.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007105757.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Набор контейнеров для пищевых продуктов "Beaba", 6 шт</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>912261</vendorCode>
+        <description>Пластиковые контейнеры "Beaba" предназначены для хранения и замораживания блюд ребенка. Крышка легко открывается и плотно закрывается. На контейнеры нанесена шкала с делениями для точного определения количества еды. Контейнеры могут быть использован в микроволновой печи, морозильной камере и посудомоечной машине.</description>
+        <barcode>3384349122614</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">Пластик</param>
+        <param name="Пояснительное наименование">2 х 150 мл, 2 х 300 мл, 2 x 500 мл</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">6</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="18053439" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18053439/?from=prt_xml_facet</url>
+        <price>197</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005502707.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка для кормления "Dr.Brown's", 2 шт</name>
+        <vendor>Dr.Brown's</vendor>
+        <vendorCode>742</vendorCode>
+        <description>Ложечка "Dr.Brown's" идеально подойдет для кормления малыша от 6 месяцев. Удобная удлиненная ручка позволяет легко забирать питание из глубоких баночек, а специально разработанная форма поможет удалять остатки питания вокруг рта ребенка. Набор содержит 2 разноцветных ложечки.</description>
+        <barcode>0072239007426</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="18097422" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18097422/?from=prt_xml_facet</url>
+        <price>552</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005503278.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005507791.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ложка детская "Beaba", в ассортименте</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913225</vendorCode>
+        <description>Детская ложка "Beaba" идеально подойдет для кормления малыша. Ложка оснащена поворотной ручкой на 360 градусов. Вращающуюся ручку можно заблокировать для использования ложки в более взрослом возрасте.</description>
+        <barcode>72569430</barcode>
+        <param name="Тип">Ложка</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Пластиковая банка</param>
+      </offer>
+      <offer id="18405290" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18405290/?from=prt_xml_facet</url>
+        <price>990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005587718.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005587716.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнеры для молока Chicco (Чико) "Step Up", 4 шт</name>
+        <vendor>Chicco (Чико)</vendor>
+        <vendorCode>02257.00</vendorCode>
+        <description>Контейнеры для молока Chicco (Чико) "Step Up" незаменимы во время грудного вскармливания, поскольку позволяют сохранить излишки молока и покормить ребенка даже в тех случаях, когда грудное вскармливание невозможно. Герметичная крышка обеспечивает гигиеничное хранение материнского молока. Контейнеры выполнены из легкого небьющегося пластика и легко стерилизуются. Их можно хранить в холодильнике или морозильной камере. В комплект также входят зажимное кольцо, соска с защитным колпачком и две антибактериальные, впитывающие молоко, защитные прокладки для груди, обеспечивающие воздухообмен.</description>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">4 контейнера, соска, зажимное кольцо, 2 антибактериальные прокладки для груди и колпачок</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Количество элементов">9</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="18405306" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18405306/?from=prt_xml_facet</url>
+        <price>370</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005570266.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов Chicco (Чико) "Easy Meal": ложка, вилка, от 18 месяцев</name>
+        <vendor>Chicco (Чико)</vendor>
+        <vendorCode>68576.30</vendorCode>
+        <description>Набор столовых приборов Chicco (Чико) "Easy Meal" состоит из ложки и вилки, выполненных из нержавеющей стали и специально разработанных для маленьких ручек. Ручки выполнены из яркого пластика оранжевого цвета.</description>
+        <barcode>8003670845157</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+        <param name="Материал">Вилка, ложка</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="18563311" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18563311/?from=prt_xml_facet</url>
+        <price>440</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005549687.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка пластиковая "Easy Learning", глубокая, цвет: желтый, от 6 месяцев</name>
+        <vendor>NUK</vendor>
+        <vendorCode>10.255.050</vendorCode>
+        <description>Глубокая пластиковая тарелка "Easy Learning" с удобными нескользкими ручками и крышкой, идеальна для кормления малыша и самостоятельного приема пищи. Высокие наклонные края тарелки облегчают зачерпывание пищи, а нескользкое дно гарантирует устойчивое положение тарелки на поверхности. Тарелку можно использовать в микроволновых печах и посудомоечных машинах.</description>
+        <barcode>4008600082514</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Тарелка, крышка</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="18600078" available="true">
+        <url>http://www.ozon.ru/context/detail/id/18600078/?from=prt_xml_facet</url>
+        <price>142</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005566129.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005944238.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005944245.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка "Canpol Babies", в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>4/412</vendorCode>
+        <description>Яркая тарелка "Canpol Babies" превратит процесс кормления вашего малыша в веселую игру. Глубокая тарелочка оформлена по верхнему краю изображением цветочков и кружочков, а дно оформлено изображением забавной лошадки. Ваш ребенок будет кушать с большим удовольствием, стараясь быстрее добраться до лошадки.</description>
+        <barcode>5903407044125</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="19065701" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19065701/?from=prt_xml_facet</url>
+        <price>621</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005652702.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детской фарфоровой посуды "Maman", 3 предмета рисунок в ассорт.</name>
+        <vendor>Maman</vendor>
+        <vendorCode>HY-170-A</vendorCode>
+        <description>Набор детской фарфоровой посуды "Maman" непременно понравится вашему ребенку и сделать процесс принятия пищи намного приятнее. Набор включает в себя гулбокую тарелочку, обычную тарелку и чашечку с двумя ручками. Посуда выполнена из традиционного китайского фарфора и оформлена авторскими рисунками с изображениями забавных медвежонка и зайчонка. Порадуйте своего малыша этим замечательным набором! Автор рисунков - О.А. Михайлова-Анохина. Метод нанесения рисунка - деколь.</description>
+        <barcode>4612726500359</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+        <param name="Материал">2 тарелки, чашка</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="19097497" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097497/?from=prt_xml_facet</url>
+        <price>1373</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005774806.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772911.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772912.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Органайзер для детских принадлежностей "Munchkin". 11000</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11000</vendorCode>
+        <description>Органайзер для детских принадлежностей "Munchkin" - специальное приспособление для удобного и упорядоченного хранения подгузников, салфеток, мазей и других аксессуаров. Органайзер включает в себя восемь отделов. По центру расположены диспенсер для подгузников, который обеспечивает легкий доступ без выпадения подгузников, и большой отдел для хранения коробки с влажными салфетками. По бокам расположены по три небольших отдела, в том числе два кармашка-сеточки. Органайзер легко крепится к кроваткам, комодам, пеленальным столикам или к другой удобной поверхности. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания...</description>
+        <barcode>5019090110006</barcode>
+        <param name="Тип">Органайзер</param>
+      </offer>
+      <offer id="19097500" available="false">
+        <url>http://www.ozon.ru/context/detail/id/19097500/?from=prt_xml_facet</url>
+        <price>378</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005772114.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772115.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772116.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Ершик "Munchkin", для бутылочек, с дозатором, в ассортименте</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11168</vendorCode>
+        <description>Ершик с дозатором "Munchkin" станет незаменимым атрибутом ухода за детскими бутылочками. Благодаря щетинкам из прочного нейлона, он легко очищает самые труднодоступные части детских бутылочек. Он также подходит для мытья фигурных бутылочек, термосов, стаканов и другой детской посуды. В ручке ершика находится контейнер для детского моющего средства. С помощью кнопки, расположенной на рукоятке, вы можете регулировать поступление моющего средства на ершик. Кнопка позволит всегда использовать необходимое количество моющего средства для каждого случая. Крепкая присоска на рукоятке позволит ершику стоять в вертикальном положении для защиты от микробов. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают...</description>
+        <barcode>5019090111683</barcode>
+        <param name="Тип">Ершик</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">0</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="19097501" available="false">
+        <url>http://www.ozon.ru/context/detail/id/19097501/?from=prt_xml_facet</url>
+        <price>191</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005771999.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772000.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Ершик "Munchkin", для бутылочек и сосок, в ассортименте</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11096</vendorCode>
+        <description>Комбинированный ершик "Munchkin" станет незаменимым атрибутом ухода за детскими бутылочками и сосками. Благодаря щетинкам из прочного нейлона и наконечнику с губкой, он легко очищает самые труднодоступные части детских бутылочек. Он также подходит для мытья фигурных бутылочек, термосов, стаканов и другой детской посуды, а маленький ершик может быть использован для чистки сосок. Ершик для сосок вставляется непосредственно в ручку ершика для бутылочек и поэтому не теряется. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет уже более 140 патентов и изобретений, используемых в создании ее неповторимой и...</description>
+        <barcode>5019090110969</barcode>
+        <param name="Тип">Ершик</param>
+      </offer>
+      <offer id="19097503" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097503/?from=prt_xml_facet</url>
+        <price>393</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005764734.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Пакеты для стерилизации бутылочек "Munchkin"</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>51246</vendorCode>
+        <description>Пакеты для стерилизации бутылочек "Munchkin" - быстрая трехминутная стерилизация. Каждый пакет можно использовать до 20 раз. Вмещает пакет две бутылочки для кормления большинства размеров и подходит для бытовых микроволновых печей. Комплект содержит три пакета. Кредо компании Munchkin, американской компании с 20-летней историей - избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращают обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет уже более 140 патентов и изобретений, используемых в создании ее неповторимой и оригинальной продукции. Munchkin делает жизнь родителей легче!</description>
+        <barcode>5019090512466</barcode>
+        <param name="Тип">Стерилизатор</param>
+        <param name="Материал">3 пакета</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка картонная</param>
+      </offer>
+      <offer id="19097504" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097504/?from=prt_xml_facet</url>
+        <price>1033</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005774789.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005768104.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772588.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Сушилка для бутылочек "Munchkin". 11099</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11099</vendorCode>
+        <description>Стильная и функциональная сушилка для бутылочек "Munchkin" станет полезным и эффектным дополнением к любой кухне! Она идеально подойдет для бутылочек, сосок, чашек, столовых приборов и других аксессуаров. Сушилка представляет собой круглую решетку с емкостью для стекания воды, в центре которой расположена стойка со штырьками, расходящимися в стороны. Верхняя часть стойки является стаканом для сушки столовых приборов. Сушилка вращается на 360° и вмешает до 12 бутылочек. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет уже более 140 патентов и изобретений, используемых в создании ее неповторимой и...</description>
+        <barcode>5019090110990</barcode>
+        <param name="Тип">Сушилка для посуды</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="19097506" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097506/?from=prt_xml_facet</url>
+        <price>449</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005769340.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005769344.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Сумка "Munchkin" для мытья в посудомоечной машине</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11170</vendorCode>
+        <description>Сумка "Munchkin" для мытья детских аксессуаров в посудомоечной выполнена в виде сетки в пластиковом каркасе. Удобный сетчатый контейнер надежно сохраняет все части детской посуды, в том числе принадлежности для бутылочек, в то же время сетка не затрудняет проникновение воды и обеспечивает тщательное мытье. Сумка легко устанавливается на верхней полке посудомоечной машины и имеет различные лоточки и возможность расширения отделов.</description>
+        <barcode>5019090111706</barcode>
+        <param name="Тип игры">Детская посуда и аксессуары</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">0</param>
+      </offer>
+      <offer id="19097508" available="false">
+        <url>http://www.ozon.ru/context/detail/id/19097508/?from=prt_xml_facet</url>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005692279.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Ниблер "Munchkin", в ассортименте</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11087</vendorCode>
+        <description>C ниблером "Munchkin" ваш малыш будет наслаждаться натуральным вкусом, структурой и высоким качеством свежих продуктов безопасно, без риска удушья - а вы получите душевное спокойствие! Поместите подготовленные продукты в сеточку, закройте застежку, дайте ребенку и отдыхайте. Ниблер прост и удобен в использовании - кусочки овощей и фруктов находятся в сетчатом мешочке, надежная система не позволяет ребенку случайно открыть емкость. Подходит для любой пищи, соответствующей возрасту ребенка, включая замороженные фрукты, бананы, морковь и многое другое. Его можно мыть в посудомоечной машине на верхней полке. Ниблер оснащен удобной ручкой в форме кольца. На содержит Бисфенол А. Кредо Munchkin, американской компании с 20-летней историей - избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания...</description>
+        <barcode>5019090110877</barcode>
+        <param name="Тип">Аксессуар для кормления</param>
+      </offer>
+      <offer id="19097511" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097511/?from=prt_xml_facet</url>
+        <price>231</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005903863.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор пластиковых ложек "Munchkin", 6 шт</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11003</vendorCode>
+        <description>Набор "Munchkin" включает в себя шесть детских ложечек разных цветов. Ложечки изготовлены из безопасного пластика, не содержащего Бисфенол-А. Закругленные края ложечек мягко прикасаются к деснам малыша, не раня их. Удобная длинная ручка позволит достать до дна даже глубокой посуды. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет уже более 140 патентов и изобретений, используемых в создании ее неповторимой и оригинальной продукции. Munchkin делает жизнь родителей легче!</description>
+        <barcode>5019090110037</barcode>
+        <param name="Возраст ребенка">От 3 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="19097514" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097514/?from=prt_xml_facet</url>
+        <price>249</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005770832.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005770834.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005770835.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнер для сухих смесей "Munchkin ", в ассортименте</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11078</vendorCode>
+        <description>Контейнер для сухих смесей "Munchkin " необходим для хранения и транспортировки детского питания. Контейнер оборудован удобной плотно прилегающей крышкой с клапаном, а также разделителем на три отсека вместимостью по 225 мл, что позволяет разместить три предварительно отмеренные порции детского питания в разных отделениях. Контейнер выполнен из безопасного полипропилена, не содержит бисфенол А. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет уже более 140 патентов и изобретений, используемых в создании ее неповторимой и оригинальной продукции. Munchkin делает жизнь родителей легче!</description>
+        <barcode>5019090110785</barcode>
+        <param name="Тип">Контейнер</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="19097516" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097516/?from=prt_xml_facet</url>
+        <price>429</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005788320.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детских тарелок "Munchkin", 4 шт</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11182</vendorCode>
+        <description>Детские тарелки "Munchkin", выполненные из безопасного пластика (не содержит бисфенол А), прекрасно подойдут для кормления малыша и самостоятельного приема им пищи. В комплект к каждой тарелке предусмотрена плотно закрывающаяся крышка, которая позволит хранить остатки еды. В комплект входит также регулируемая крышка Snack Catcher - из миски с такой крышкой малыш может вытащить печенья или других продуктов ровно столько, сколько сможет положить в рот за один раз, миска не откроется даже если упадет и перевернется. В набор входят четыре разноцветные тарелки с крышками и регулируемая крышка. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство,...</description>
+        <barcode>5019090111829</barcode>
+        <param name="Возраст ребенка">От 6 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">4 тарелки, 5 крышек</param>
+      </offer>
+      <offer id="19097542" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19097542/?from=prt_xml_facet</url>
+        <price>301</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005772054.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772055.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772056.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ершик "Munchkin", для бутылочек и сосок, на присоске, в ассортименте</name>
+        <vendor>Munchkin</vendor>
+        <vendorCode>11042</vendorCode>
+        <description>Комбинированный ершик "Munchkin" станет незаменимым атрибутом ухода за детскими бутылочками и сосками. Благодаря щетинкам из прочного нейлона, он легко очищает самые труднодоступные части детских бутылочек. Он также подходит для мытья фигурных бутылочек, термосов, стаканов и другой детской посуды, а маленький ершик может быть использован для чистки сосок. Ершик для сосок вставляется непосредственно в ручку ершика для бутылочек и поэтому не теряется. Крепкая присоска на рукоятке позволит ершику стоять в вертикальном положении для защиты от микробов. Кредо Munchkin, американской компании с 20-летней историей: избавить мир от надоевших и прозаических товаров, искать умные инновационные решения, которые превращает обыденные задачи в опыт, приносящий удовольствие. Понимая, что наибольшее значение в быту имеют именно мелочи, компания создает уникальные товары, которые помогают поддерживать порядок, организовывать пространство, облегчают уход за детьми - недаром компания имеет...</description>
+        <barcode>5019090110426</barcode>
+        <param name="Тип">Ершик</param>
+        <param name="Материал">2 ершика</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="19157521" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19157521/?from=prt_xml_facet</url>
+        <price>1440</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005687802.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005687801.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Beaba", цвет: салатовый ,серый, 5 предметов</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913195</vendorCode>
+        <description>Набор для кормления "Beaba" включает в себя большую тарелку с нескользящим основанием, глубокую порционную тарелку, ложку, вилку и защитную крышку-держатель. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Резиновая основа большой тарелки предохраняет ее от скольжения, благодаря чему, ваш малыш не сможет ее опрокинуть. Благодаря специальному основанию, порционную тарелку можно ставить на большую, не боясь того что она соскользнет и опрокинется. Форма ложки и вилки разработана с учетом особенностей детских рук, ими можно пользоваться как правой, так и левой рукой. Плотно прилегающая крышка удобна для сохранения еды теплой и хранения в холодильнике. У крышки имеются специальные хлястики, позволяющие соединить тарелки вместе, что облегчает хранение и транспортировку набора. Все предметы набора можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349131951</barcode>
+        <param name="Тип">Бутылочка</param>
+        <param name="Материал">2 тарелки, ложка, вилка, крыжка</param>
+        <param name="Пояснительное наименование">Тарелка, глубокая порционная тарелка, ложка, вилка, крышка</param>
+        <param name="Год выпуска">2012</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">5</param>
+        <param name="Упаковка">Коробка пластиковая</param>
+      </offer>
+      <offer id="19427515" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19427515/?from=prt_xml_facet</url>
+        <price>1590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005850780.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005850779.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор Pigeon "Mag Mag", со сменными носиками</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>13715</vendorCode>
+        <description>Набор Pigeon "Mag Mag" - это уникальная 4-х ступенчатая система обучения питью от соски до соломинки в одном наборе! Набор состоит из чашки-поильника с соской и нескользящим дном, двух сменных ручек, одни из которых оснащены крышкой с двойным фиксатором и специальным клапаном, выравнивающим давление и предотвращающим случайное проливание, мягкого носика и жесткого носика. Поильник с соской позволит дольше продлить грудное вскармливание. Соска изготовлена из мягкого силикона в соответствии с научными исследованиями сосания груди младенцем, позволяет реализовать три ключевых момента грудного вскармливания: захват, перистальтические движения и глотание. Поильник-непроливайка с мягким носиком тренирует навыки отличные от сосания соски и позволяет более быстро перейти к питью из чашки. Мягкий безопасный наконечник с крестообразным разрезом и специальная вакуумная система обеспечивают легкую регуляцию потока и не позволяют жидкости пролиться из кружки. Поильник...</description>
+        <barcode>80675868</barcode>
+        <param name="Возраст ребенка">От 3 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Чашка-полильник, соска, 2 носика, 2 съемных ручки</param>
+        <param name="Пояснительное наименование">4-х ступенчатая система обучения питью от соски до соломинки!</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">6</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="19427527" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19427527/?from=prt_xml_facet</url>
+        <price>2590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005811789.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор "Pigeon": 4 ложки, вилка, 3 тарелки, кружка, обеденный коврик</name>
+        <vendor>Pigeon</vendor>
+        <vendorCode>18062</vendorCode>
+        <description>Набор "Pigeon" разработан для первого прикорма вашего малыша и для первых навыков самостоятельного приема пищи. Набор состоит из двух мягких ложечек для первого прикорма, мягкой ложечки для прикорма, ложечки и вилочки для развития самостоятельных навыков, двух глубоких тарелочек, кружечки с двумя ручками, секционной тарелочки и мягкого обеденного коврика. Размер ложки прекрасно подходит для младенца от 4 месяцев, чтобы кушать и пить маленькими глоточками. Ограничитель в основании ложечек предохраняет от случайных травм. Ложечка и вилочка предназначены для развития самостоятельных навыков. Размер приборов точно рассчитан под детскую ручку, их легко поднимать и легко сжимать. Удобная форма ложки облегчает зачерпывание еды, двусторонняя конструкция вилочки позволяет накалывать пищу любой стороной. Ограничитель защищает от случайных травм, верхняя закругленная часть предотвращает выскальзывание приборов из руки. Две глубокие тарелочки подходят для каш, пюре и супов....</description>
+        <barcode>4902508180627</barcode>
+        <param name="Возраст ребенка">От 3 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+      </offer>
+      <offer id="19446224" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446224/?from=prt_xml_facet</url>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005901844.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детской посуды "Canpol Babies", цвет в ассортименте, 4 предмета</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>21/300</vendorCode>
+        <description>Набор детской посуды "Canpol Babies" включает в себя тарелочку с крышкой, вилку и ложку. Тарелочка с удобной присоской, идеально подойдет для кормления малыша, и самостоятельного приема им пищи. Специальная присоска фиксирует тарелочку на столе, благодаря чему она не упадет, еда не прольется. Оформлена тарелочка изображением двух симпатичных пингвинчиков. В комплект к тарелочке входит крышка, которая позволит сохранить остатки еды. Ручка ложечки и вилки специальной формы, благодаря которой малышу будет удобно кушать самостоятельно.</description>
+        <barcode>5903407213002</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Полипропилен, Резина</param>
+        <param name="Количество предметов">4</param>
+        <param name="Пояснительное наименование">Тарелка с крышкой, ложка, вилка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">4</param>
+        <param name="Упаковка">Коробка пластиковая</param>
+      </offer>
+      <offer id="19446226" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446226/?from=prt_xml_facet</url>
+        <price>567</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682747.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682744.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682745.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682746.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор посуды "Canpol Babies", 5 предметов, в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>4/401</vendorCode>
+        <description>Набор посуды "Canpol Babies" состоит из тарелочки, миски, вилки и ложечки. Посуда выполнена из безопасного материала и украшена яркими рисунками. Округлые формы столовых приборов не повредят нежные десны малыша. Основание тарелок и чашечки оснащено небольшими рельефными полосками, предотвращающими скольжение. Посуду можно использовать в микроволновой печи (без крышек) и посудомоечных машинах (на верхней полке). Такой набор посуды незаменим в период, когда ваш малыш учится все делать самостоятельно.</description>
+        <barcode>5903407044019</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Пластик</param>
+        <param name="Комплект">Да</param>
+        <param name="Количество предметов">5</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">5</param>
+        <param name="Упаковка">Коробка</param>
+        <param name="Возраст мин.">1 года</param>
+      </offer>
+      <offer id="19446228" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446228/?from=prt_xml_facet</url>
+        <price>271</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682852.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682849.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682850.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682851.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Ситечко для кормления "Canpol Babies", в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>56/105</vendorCode>
+        <description>Ситечко "Canpol Babies" предназначено для безопасного кормления малыша свежими фруктами, овощами, сырами и даже печеньем. Ситечко очень удобно, если вы хотите отучить ребенка от жидкого питания. Ситечко не даст вашему малышу подавиться неправильно пережеванными остатками пищи. Удобная форма позволяет легко держать ситечко маленькими ручками. Яркие цвета привлекут внимание и сделают процесс кормления более увлекательным и интересным. В комплект входит крышка для защиты сеточки от загрязнения.</description>
+        <barcode>5903407561059</barcode>
+        <param name="Тип">Аксессуар для кормления</param>
+      </offer>
+      <offer id="19446230" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446230/?from=prt_xml_facet</url>
+        <price>146</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682862.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Сменные сеточки "Canpol Babies", 3 шт, в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>56/131</vendorCode>
+        <description>Сменные сеточки "Canpol Babies" подходят к ситечку, предназначенному для кормления малыша свежими фруктами, овощами, сырами и даже печеньем. Комплект содержит три сеточки ярких цветов.</description>
+        <barcode>5903407561318</barcode>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Текстиль</param>
+      </offer>
+      <offer id="19446231" available="false">
+        <url>http://www.ozon.ru/context/detail/id/19446231/?from=prt_xml_facet</url>
+        <price>445</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682767.JPG</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682769.JPG</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005872578.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005872579.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>В течение недели</ordering>
+        </orderingTime>
+        <name>Термотарелка "Canpol Babies", на присоске, с аксессуарами, в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>9/216</vendorCode>
+        <description>Теперь питание вашего малыша не будет остывать так быстро - горячая вода поддержит необходимую температуру и защитит питание от слишком быстрого охлаждения. Яркая пластиковая тарелочка оборудована тремя секциями и предназначена для ребенка от девяти месяцев. Тарелка оснащена двойными стенками, между которыми заливается горячая вода, присоской, которая предотвратит случайное скольжение по столу или скатерти и надежным откручивающимся замочком, защищающим клапан подачи воды. В комплект с тарелкой входят ложечка и вилочка специальной формы, удобной для того, чтобы малыш сам учился кушать. Тарелочка оформлена яркими рисунками, что, несомненно, понравиться вашему малышу.</description>
+        <barcode>5903407092164</barcode>
+        <param name="Возраст ребенка">От 9 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Тарелка, ложка, вилка</param>
+        <param name="Пояснительное наименование">Термотарелка с тремя секциями, ложечка, вилочка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="19446232" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446232/?from=prt_xml_facet</url>
+        <price>207</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682777.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005682776.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор "Canpol Babies": тарелка с крышкой, ложка, в ассортименте</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>9/219</vendorCode>
+        <description>Набор "Canpol Babies" состоит легкой и удобной миски с ручкой и крышкой, а также ложечки. Плотная крышечка поможет поддержать температуру пищи. Ложка имеет слегка округленную форму, чтобы не повредить нежные десны ребенка от раздражения. Благодаря ручке, тарелку можно держать в одной руке, а ложку - в другой. Это позволяет удобно кормить малыша, который не может еще кушать самостоятельно. Элементы набора выполнены из безопасного прочного материала. Набор "Canpol Babies" идеально подойдет для кормления малыша и самостоятельного приема пищи.</description>
+        <barcode>5903407092195</barcode>
+        <param name="Возраст ребенка">От 9 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="19446238" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19446238/?from=prt_xml_facet</url>
+        <price>108</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005682732.JPG</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Canpol Babies": вилка, ложка, в ассортименте. 2/581</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>2/581</vendorCode>
+        <description>Набор столовых приборов "Canpol Babies" разработан специально для тех, кто только учится самостоятельно держать в руках ложку и вилку. Набор состоит из двух предметов - ложки и вилки, которые вмещают в себя порции, предназначенные для малышей. Эргономичные ручки, изготовленные из безопасного материала (не содержат бисфенол А), удобно располагаются в кулачке ребенка, помогая развивать координацию движений. Ложка и вилка имеют округлую форму, а, следовательно, не раздражают нежные десна ребенка.</description>
+        <barcode>5903407025810</barcode>
+        <param name="Возраст ребенка">От 1 года</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">ложечка, вилочка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+        <param name="Возраст мин.">1 года</param>
+      </offer>
+      <offer id="19481991" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19481991/?from=prt_xml_facet</url>
+        <price>1280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005829827.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Пакет для замораживания грудного молока "Easy Freeze", с верхним зажимом, 20 шт</name>
+        <vendor>ARDO</vendor>
+        <vendorCode>63.00.153</vendorCode>
+        <description>Пакеты для замораживания грудного молока "Easy Freeze" предохраняют молоко от появления неприятного запаха. Есть возможность сцеживать молоко непосредственно в пакет. Пакеты с двойными стенками оснащены верхним зажимом и индикатором температуры. Не содержат Бисфенол А. Комплект содержит 20 пакетиков.</description>
+        <barcode>7640109052796</barcode>
+        <param name="Материал">20 пакетиков</param>
+        <param name="Тип игры">Молокоотсосы, молокосборники</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">20</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="19664313" available="false">
+        <url>http://www.ozon.ru/context/detail/id/19664313/?from=prt_xml_facet</url>
+        <price>552</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005772369.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005772368.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Набор детской стеклянной посуды "Маша и Медведь: Новый год!", 3 предмета</name>
+        <vendor>Маша и медведь</vendor>
+        <vendorCode>95590</vendorCode>
+        <description>Набор детской стеклянной посуды "Маша и Медведь: Новый год!" привлечет внимание вашего ребенка и не позволит ему скучать. Набор состоит из чашки, салатника и тарелки. Посуда оформлена изображением любимых героев мультфильма "Маша и Медведь". Ваш малыш с удовольствием будет кушать вместе с любимыми героями. Предметы набора допустимо использовать в микроволновой печи.</description>
+        <barcode>4606065029671</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+        <param name="Материал">Стекло</param>
+        <param name="Количество предметов">3</param>
+        <param name="Материал">Стекло</param>
+      </offer>
+      <offer id="19974788" available="true">
+        <url>http://www.ozon.ru/context/detail/id/19974788/?from=prt_xml_facet</url>
+        <price>790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005872620.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005872619.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Баночки для детского питания "Dr.Brown's", 4 шт</name>
+        <vendor>Dr.Brown's</vendor>
+        <vendorCode>772</vendorCode>
+        <description>Баночки для детского питания "Dr.Brown's" предназначены для хранения и замораживания детского питания. Каждая баночка вмещает 85 граммов питания. Баночки выполнены из мягкого материала, что обеспечивает быстрое и легкое вынимание замороженного детского питания. А благодаря крышечкам с цветными полосками, вы без труда найдете контейнер, который вам необходим. В комплект входят четыре баночки. Материал, из которого изготовлены контейнеры, не содержит Бисфенол А.</description>
+        <barcode>0072239007723</barcode>
+        <param name="Тип">Очки солнцезащитные</param>
+      </offer>
+      <offer id="20022535" available="false">
+        <url>http://www.ozon.ru/context/detail/id/20022535/?from=prt_xml_facet</url>
+        <price>468</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005863589.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005863584.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005863585.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005863586.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005863588.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005916511.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Принимаются заявки</ordering>
+        </orderingTime>
+        <name>Набор тарелок "Canpol Babies", 6 шт + Набор столовых приборов в подарок</name>
+        <vendor>Canpol Babies</vendor>
+        <vendorCode>31/401/418</vendorCode>
+        <description>Детские тарелки "Canpol Babies", выполненные из безопасного пластика (не содержит бисфенол А), прекрасно подойдут для кормления малыша и самостоятельного приема им пищи. Нескользящие ручки и дно позволят удобно держать тарелку во время кормления ребенка или поставить ее на стол, не боясь, что она соскользнет. В комплект входят шесть тарелочек разных цветов. В подарок к тарелкам предусмотрен набор столовых приборов - ложечка, нож и вилка. Столовые приборы были специально разработаны для обучения детей самостоятельному приему ими пищи. Собственный набор будет способствовать обучению вашего малыша. Приборы снабжены удобными, широкими ручками для удобства захвата и удержания. Они имеют гладкие, закругленные края, что делает их безопасными для ребенка.</description>
+        <barcode>2000013210012</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Пластик, Резина</param>
+        <param name="Количество предметов">6</param>
+      </offer>
+      <offer id="20138541" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138541/?from=prt_xml_facet</url>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005900934.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1005900933.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Блендер для смесей Beaba "Onctuo", цвет фиолетовый</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>911415</vendorCode>
+        <description>Благодаря технологии «циклон эффекта», миксер Onctuo Beaba упрощает процесс приготовления детской смеси. Оптимальный эффект – смесь без единого комочка всего за пару секунд. Съемный венчик из силикона не ломается, легко стерилизуется. Работает от батареек AA и LR6 (не вхолят в комплект). Перемешивание смеси в любой бутылочке. Быстро и практично, без единого комочка. Оптимальный эффект. Пластиковый стакан для хранения. Подходит для всех бутылочек. Не содержит Бисфенол А.</description>
+        <barcode>3384349114152</barcode>
+        <param name="Год выпуска">2013</param>
+        <param name="Упаковка">Коробка</param>
+        <param name="Пол">Для всей семьи</param>
+      </offer>
+      <offer id="20138550" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138550/?from=prt_xml_facet</url>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005900939.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>ONCTUO LUMP-FREE BLENDER PINK блендер для смесей цвет розовый</name>
+        <vendorCode>911416</vendorCode>
+        <description>Благодаря технологии «циклон эффекта», миксер Onctuo Beaba упрощает процесс приготовления детской смеси. Оптимальный эффект – смесь без единого комочка всего за пару секунд. Съемный венчик из силикона не ломается, легко стерилизуется. Батарейки AA и LR6 . Перемешивание смеси в любой бутылочке Быстро и практично, без единого комочка Оптимальный эффект Пластиковый стакан для хранения Подходит для всех бутылочек Не содержит Бисфенол А Меры предосторожности: • Для того, чтобы поместить батареи в миксер, отвинтите съемную крышку на ручке, вставьте две AA или LR6 батарейки, завинтите крышку. • Не смешивайте старые и новые батареи. Не смешивайте щелочные, стандартные (углерод - цинковые) или аккумуляторные (никель-кадмиевые) батарейки. • Не прикасайтесь к венчику во время вращения. • Никогда не мочите ручку миксера. • Съемный венчик и стаканчик для хранения подходят для стерилизации и посудомоечной машинкиРекомендации по использованию: • Поместите необходимое количество воды и...</description>
+        <barcode>3384349114169</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="20138553" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138553/?from=prt_xml_facet</url>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005900941.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>ONCTUO LUMP-FREE BLENDER BLUE блендер для смесей цвет голубой</name>
+        <vendorCode>911417</vendorCode>
+        <description>Благодаря технологии «циклон эффекта», миксер Onctuo Beaba упрощает процесс приготовления детской смеси. Оптимальный эффект – смесь без единого комочка всего за пару секунд. Съемный венчик из силикона не ломается, легко стерилизуется. Батарейки AA и LR6 . Перемешивание смеси в любой бутылочке Быстро и практично, без единого комочка Оптимальный эффект Пластиковый стакан для хранения Подходит для всех бутылочек Не содержит Бисфенол А Меры предосторожности: • Для того, чтобы поместить батареи в миксер, отвинтите съемную крышку на ручке, вставьте две AA или LR6 батарейки, завинтите крышку. • Не смешивайте старые и новые батареи. Не смешивайте щелочные, стандартные (углерод - цинковые) или аккумуляторные (никель-кадмиевые) батарейки. • Не прикасайтесь к венчику во время вращения. • Никогда не мочите ручку миксера. • Съемный венчик и стаканчик для хранения подходят для стерилизации и посудомоечной машинкиРекомендации по использованию: • Поместите необходимое количество воды и...</description>
+        <barcode>3384349114176</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="20138554" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138554/?from=prt_xml_facet</url>
+        <price>424</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007064359.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Тарелка Beaba "Ellipse", в ассортименте</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913270</vendorCode>
+        <description>Глубокая тарелка Beaba "Ellipse" идеально подойдет для кормления малыша, и самостоятельного приема им пищи. Благодаря эргономичной форме, ее удобно держать при кормлении. Нескользящая основа предохраняет тарелку от скольжения, благодаря чему, ваш малыш не сможет ее опрокинуть. Тарелка выполнена из безопасных материалов (не содержат бисфенол А). Ее можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349132705</barcode>
+        <param name="Тип">Тарелка</param>
+        <param name="Материал">Пластик, Резина</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Упаковка">Пакет</param>
+      </offer>
+      <offer id="20138555" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138555/?from=prt_xml_facet</url>
+        <price>403</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007033669.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Глубокая тарелка Beaba "Ellipse", в ассортименте</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913271</vendorCode>
+        <description>Глубокая тарелка Beaba "Ellipse" идеально подойдет для кормления малыша, и самостоятельного приема им пищи. Благодаря эргономичной форме, ее удобно держать при кормлении. Нескользящая основа предохраняет тарелку от скольжения, благодаря чему, ваш малыш не сможет ее опрокинуть. Тарелка выполнена из безопасных материалов (не содержат бисфенол А). Ее можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349132712</barcode>
+        <param name="Возраст ребенка">От 6 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+      </offer>
+      <offer id="20138557" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138557/?from=prt_xml_facet</url>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1006011748.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1006011746.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1006011747.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор тарелок "Beaba", цвет: зеленный, белый</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913276</vendorCode>
+        <description>Набор "Beaba" включает в себя две тарелочки разного размера и защитную крышку. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Тарелки эргономичной формы удобно держать при кормлении малыша. Нескользящая основа предохраняет тарелки от скольжения, благодаря чему, ваш малыш не сможет их опрокинуть. Плотно прилегающая крышка удобна для сохранения еды теплой и хранения в холодильнике. Крышка снабжена специальными отверстиями для отведения пара. Элементы набора выполнены из безопасных материалов (не содержат бисфенол А). Их можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349132767</barcode>
+        <param name="Возраст ребенка">От 6 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+      </offer>
+      <offer id="20138558" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138558/?from=prt_xml_facet</url>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007099440.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007099439.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор тарелок "Beaba", цвет: фиолетовый, белый</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913277</vendorCode>
+        <description>Набор "Beaba" включает в себя две тарелочки разного размера и защитную крышку. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Тарелки эргономичной формы удобно держать при кормлении малыша. Нескользящая основа предохраняет тарелки от скольжения, благодаря чему, ваш малыш не сможет их опрокинуть. Плотно прилегающая крышка удобна для сохранения еды теплой и хранения в холодильнике. Крышка снабжена специальными отверстиями для отведения пара. Элементы набора выполнены из безопасных материалов (не содержат бисфенол А). Их можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Пластик, Резина</param>
+        <param name="Пояснительное наименование">2 тарелки, крышка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="20138560" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138560/?from=prt_xml_facet</url>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007099446.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007099445.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор тарелок "Beaba", цвет: сиреневый, белый</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913278</vendorCode>
+        <description>Набор "Beaba" включает в себя две тарелочки разного размера и защитную крышку. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Тарелки эргономичной формы удобно держать при кормлении малыша. Нескользящая основа предохраняет тарелки от скольжения, благодаря чему, ваш малыш не сможет их опрокинуть. Плотно прилегающая крышка удобна для сохранения еды теплой и хранения в холодильнике. Крышка снабжена специальными отверстиями для отведения пара. Элементы набора выполнены из безопасных материалов (не содержат бисфенол А). Их можно мыть в посудомоечной машине и использовать в микроволновой печи.</description>
+        <barcode>3384349132781</barcode>
+        <param name="Тип">Набор посуды для кормления</param>
+        <param name="Материал">Пластик, Резина</param>
+        <param name="Пояснительное наименование">2 тарелки, крышка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">3</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="20138561" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20138561/?from=prt_xml_facet</url>
+        <price>1400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116251</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007064287.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007064286.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления "Beaba", цвет: зеленый</name>
+        <vendor>Beaba</vendor>
+        <vendorCode>913279</vendorCode>
+        <description>Набор для кормления "Beaba" включает в себя глубокую порционную тарелку с нескользящим основанием, ложку, вилку и две защитные крышки. С помощью этого набора ваш малыш может легко научиться есть самостоятельно. Резиновая основа тарелки предохраняет ее от скольжения, благодаря чему, ваш малыш не сможет ее опрокинуть. Под тарелочкой в специальном отсеке находится мешочек с растительным материалом, который поможет еде сохранить необходимую температуру. Форма ложки и вилки разработана с учетом особенностей детских рук, ими можно пользоваться как правой, так и левой рукой. Плотно прилегающая герметичная крышка удобна для сохранения еды теплой и хранения в холодильнике. Крышка снабжена удобными держателями наверху для крепления столовых приборов. Верхняя защитная крышка необходима для использования в микроволновой печи. Элементы набора выполнены из безопасных материалов (не содержат бисфенол А). Их можно мыть в посудомоечной машине и использовать в микроволновой...</description>
+        <barcode>3384349132798</barcode>
+        <param name="Возраст ребенка">От 6 месяцев</param>
+        <param name="Тип">Аксессуар для кормления</param>
+        <param name="Материал">Тарелка на присоске, 2 крышки, ложка, вилка</param>
+        <param name="Пояснительное наименование">Тарелка на присоске, 2 крышки, ложка, вилка</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">5</param>
+        <param name="Упаковка">Коробка</param>
+      </offer>
+      <offer id="20157288" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20157288/?from=prt_xml_facet</url>
+        <price>1372</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005950792.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор детской посуды "Винни-пух", цвет: розовый, 5 предметов</name>
+        <vendor>Disney Baby</vendor>
+        <vendorCode>33979</vendorCode>
+        <description>Набор детской посуды "Винни-пух" состоит из кружки, миски, тарелки, ложки и вилки. Посуда, выполненная из пищевого пластика, оформлена изображением любимых героев диснеевского мультфильма "Винни-пух" - медвежонка Винни, Пятачка и ослика Ушастика. Ваш малыш с удовольствием будет кушать вместе с любимыми героями. Предметы набора допустимо использовать в микроволновой печи.</description>
+        <barcode>8412497339792</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+        <param name="Материал">Пластик</param>
+        <param name="Комплект">Да</param>
+        <param name="Количество предметов">5</param>
+      </offer>
+      <offer id="20374318" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20374318/?from=prt_xml_facet</url>
+        <price>740</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1005950851.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнеры для хранения молока</name>
+        <vendorCode>00084.40</vendorCode>
+        <description>Контейнеры для хранения молока</description>
+        <barcode>8003670994428</barcode>
+        <param name="Тип">Контейнер вакуумный</param>
+      </offer>
+      <offer id="20374372" available="true">
+        <url>http://www.ozon.ru/context/detail/id/20374372/?from=prt_xml_facet</url>
+        <price>616</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007056449.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007056448.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Chicco (Чико)", от 12 месяцев, цвет: белый, зеленый</name>
+        <vendor>Chicco (Чико)</vendor>
+        <vendorCode>06830.00</vendorCode>
+        <description>Набор столовых приборов "Chicco (Чико)" разработан специально для тех, кто только учится самостоятельно держать в ручках ложку и вилку. Набор состоит из двух предметов - ложки и вилки, которые вмещают в себя порции, предназначенные для малышей. Эргономичные ручки, изготовленные из безопасного мягкого пластика (не содержат бисфенол А), удобно располагаются в кулачке ребенка, помогая развивать координацию движений. Для безопасного использования зубцы вилки слегка закруглены, при этом отлично насаживают пищу.</description>
+        <barcode>8003670879992</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество предметов">2</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Материал">Пластик</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+        <param name="Возраст мин.">1 года</param>
+      </offer>
+      <offer id="20374374" available="false">
+        <url>http://www.ozon.ru/context/detail/id/20374374/?from=prt_xml_facet</url>
+        <price>616</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007084833.jpg</picture>
+        <picture>http://www.ozon.ru/multimedia/toys/1007084834.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>Отгружается в течение двух недель</ordering>
+        </orderingTime>
+        <name>Набор столовых приборов "Chicco (Чико)", от 18 месяцев, цвет: зеленый</name>
+        <vendor>Chicco (Чико)</vendor>
+        <vendorCode>06831.00</vendorCode>
+        <description>Набор столовых приборов "Chicco (Чико)" разработан специально для детей от 18 месяцев. Набор состоит из двух предметов - ложки и вилки, которые вмещают в себя порции, предназначенные для малышей. Приборы выполнены из нержавеющей стали. Эргономичные ручки изготовлены из безопасного пластика, удобно располагаются в кулачке ребенка, помогая развивать координацию движений. Для безопасного использования зубцы вилки слегка закруглены, при этом отлично насаживают пищу.</description>
+        <barcode>8003670880004</barcode>
+        <param name="Тип">Набор столовых приборов</param>
+        <param name="Материал">Нержавеющая сталь, Пластик</param>
+        <param name="Количество предметов">2</param>
+        <param name="Год выпуска">2013</param>
+        <param name="Количество элементов">2</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="21013615" available="true">
+        <url>http://www.ozon.ru/context/detail/id/21013615/?from=prt_xml_facet</url>
+        <price>562</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1006011939.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор посуды. Винни-пух (арт. 34100)</name>
+        <vendor>Stor</vendor>
+        <vendorCode>34100</vendorCode>
+        <description>Набор посуды для детей из пластика. Состав: тарелка, миска, стакан, ложка, вилка.</description>
+        <barcode>8412497341009</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="21013616" available="true">
+        <url>http://www.ozon.ru/context/detail/id/21013616/?from=prt_xml_facet</url>
+        <price>562</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1006011940.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор посуды. Принцессы (арт. 34200)</name>
+        <vendor>Stor</vendor>
+        <vendorCode>34200</vendorCode>
+        <description>Набор посуды для детей из пластика. Состав: тарелка, миска, стакан, ложка, вилка.</description>
+        <barcode>8412497342006</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="21013617" available="true">
+        <url>http://www.ozon.ru/context/detail/id/21013617/?from=prt_xml_facet</url>
+        <price>562</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1006011941.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор посуды. Тачки (арт. 34300)</name>
+        <vendor>Stor</vendor>
+        <vendorCode>34300</vendorCode>
+        <description>Набор посуды для детей из пластика. Состав: тарелка, миска, стакан, ложка, вилка.</description>
+        <barcode>8412497343003</barcode>
+        <param name="Тип">Набор столовой посуды</param>
+      </offer>
+      <offer id="21013618" available="true">
+        <url>http://www.ozon.ru/context/detail/id/21013618/?from=prt_xml_facet</url>
+        <price>562</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1006011942.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор посуды. Человек-паук (арт. 37400)</name>
+        <vendor>Stor</vendor>
+        <vendorCode>37400</vendorCode>
+        <description>Набор посуды для детей из пластика. Состав: тарелка, миска, стакан, ложка, вилка.</description>
+        <barcode>8412497374007</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="22257629" available="true">
+        <url>http://www.ozon.ru/context/detail/id/22257629/?from=prt_xml_facet</url>
+        <price>790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007112292.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Контейнеры c отделениями для хранения питания с крышками, ложкой и подставкой</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65700</vendorCode>
+        <description>Контейнеры в наборе с крышками, ложкой и подставкой "PHILIPS AVENT", SCF724/00. Изделие по уходу за новорождёнными и детьми до трёх лет. Дата изготовления: [ТекущаяДата] Изготовитель: "Филипс Консамер Лайфстайл Би Ви", Нидерланды, Туссендиепен 4, 9206 АД Драхтен. Завод-изготовитель: "Шенжен Жинханг Электроникс Кo., Лтд", Китай, Жингханг Индастриз Блдг., № 71 Бао ан Зон, Пи Ер Си-518101, Шенжен. Состав: полипропилен. Комплектация: контейнер большой с крышкой, 2 малых контейнера с крышками, ложечка, нескользящая подставка. Срок службы 3 года.</description>
+        <barcode>8710103551737</barcode>
+        <param name="Тип">Контейнер</param>
+      </offer>
+      <offer id="22257643" available="true">
+        <url>http://www.ozon.ru/context/detail/id/22257643/?from=prt_xml_facet</url>
+        <price>2990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116257</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007112307.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Мини-блендер электрический Philips AVENT</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>85220</vendorCode>
+        <description>Мини-блендер электрический "PHILIPS AVENT", арт. SCF860/25. Изделие по уходу за новорождёнными и детьми до трёх лет. Дата изготовления: [ТекущаяДата] Изготовитель: "Филипс Консамер Лайфстайл Би Ви", Нидерланды, Туссендиепен 4, 9206 АД Драхтен. Завод-изготовитель: "Я Хорг Электроник (Донггуан) Кампэни", Китай, Яду Сайнс Парк, Лиукун Таун, Чангпинг Дистрикт, Бейджинг. Использовать согласно прилагаемой инструкции. Состав: мини-блендер, мельница для измельчения сочных продуктов, 6 контейнеров Филипс Авент ВИА по 240 мл с крышками, 1 книжка с рецептами. Срок службы 2 года. Импортер: ООО "Филипс", Россия, 123022, г. Москва, ул. Сергея Макеева, д. 13.</description>
+        <barcode>8710103536512</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+      <offer id="22257647" available="true">
+        <url>http://www.ozon.ru/context/detail/id/22257647/?from=prt_xml_facet</url>
+        <price>1560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1116255</categoryId>
+        <picture>http://www.ozon.ru/multimedia/audio_cd_covers/1007112312.jpg</picture>
+        <delivery>true</delivery>
+        <orderingTime>
+          <ordering>На складе</ordering>
+        </orderingTime>
+        <name>Набор для кормления Подарочный набор</name>
+        <vendor>Philips Avent</vendor>
+        <vendorCode>65730</vendorCode>
+        <description>Набор для кормления торговых марок "PHILIPS", "AVENT", арт. SCF730/00, с 6 мес. Изделие по уходу за новорождёнными и детьми до трёх лет. Дата изготовления: [ТекущаяДата] Изготовитель: "Филипс Электроникс Ю Кей Лтд", Соединенное Королевство Великобритании и Северной Ирландии, Филипс Центр, Гуилдфорд Бизнес Парк, Гуилдфорд, Сюррей Джи Ю 2 8 Икс Эйч. Завод-изготовитель: "Итем Индастриз Лимитед", Китай, Ма Ти Танг, Гу Шу, Гуанг Шен Роад, Ксин Ксианг, Бао Ан Дистрикт, Шенжен. Состав: полипропилен. Срок службы 3 года.</description>
+        <barcode>8710103581420</barcode>
+        <param name="Год выпуска">2013</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

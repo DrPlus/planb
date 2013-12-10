@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Test</title>
+	<link rel="stylesheet" href="/static/goods/style.css"/>
+</head>
+<body>
+{% load goods_extras %}
+
+<div id="container">
+<div id="billboard">
+  <h2>Каталог</h2>
+  {% if path_list %}
+  <h4>
+	{% for p in path_list %}
+	&gt <a href="/category/{{ p.categoryId }}/">{{ p.category }}</a>
+	{% endfor %}
+	</h4>
+  {% endif %}
+</div>
+	<div id="content-related" class="sidebar">
+	{% if category_list %}
+		{% tree category_list|astree:"categoryId,parentId" %}
+			<a href="/category/{{ item.categoryId }}/">{{ item.category }}</a> <small>{{ item.offer_count }}</small>
+		{% endtree %}
+	{% else %}
+		<p>No categories are available.</p>
+	{% endif %}
+	</div>
+	<div id="content-main">
+	{% if offer_list %}
+		{% for o in offer_list %}
+			<div id="offer">
+			<a href="/category/{{ o.category }}/offer/{{ o.offer.id }}/">
+			{% if o.picture %}
+			<img src="{{ o.picture.picture_url }}" style="max-height:50px; float:left; margin-right: 20px;">
+			{% endif %}			
+			{{ o.offer.name }}</a>
+			<br>
+			&nbsp;{{ o.offer.description|truncatewords:15 }}
+			<br>
+			<div style="float:right"><small>Отзывы</small></div>
+			</div>
+		{% endfor %}
+	{% else %}
+		{% if offer %}
+		<div>
+		<a href="{{ offer.url }}">
+		{% if picture %}
+		<img src="{{ picture.picture_url }}" style="max-height:150px; float:left; margin-right: 20px;">
+		{% endif %}
+		<h2>{{ offer.name }}</h2>
+		</a>
+		<br>
+		{{ offer.description }}
+		</div>
+		{% else%}
+		 In ultricies pellentesque massa a porta. Aliquam ipsum enim, hendrerit ut porta nec, ullamcorper et nulla. In eget mi dui, sit amet scelerisque nunc. Aenean augue arcu, convallis ac vulputate vitae, mollis non lectus. Donec hendrerit lacus ac massa ornare hendrerit sagittis lacus tempor. Vivamus et dui et neque accumsan varius et ut erat. Enean augue arcu, convallis ac ultrices.
+		 {% endif %}
+	{% endif %}
+	</div>
+</div>
+</body>
